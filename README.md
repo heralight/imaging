@@ -10,6 +10,19 @@ This module provides image-related utilities.
 
 ---
 
+Installation
+============
+
+Version list can be found at [Maven Repository](http://repo1.maven.org/maven2/net/liftmodules/)
+
+SBT
+---
+
+add dependency in your build.sbt
+
+         "net.liftmodules"   %% "imaging"   % (liftVersion + "-1.2")    % "compile->default"
+
+
 Notes for module developers
 ===========================
 
